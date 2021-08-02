@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Introduction to JAVA Web"
+title:  "Introduction to Java Web"
 date:   2021-08-01 22:40:45 -0500
-categories: JAVA Web
+categories: Java Web
 ---
 # What is Web Application?
 
