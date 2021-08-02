@@ -3,6 +3,7 @@ layout: post
 title:  "Introduction to Java Web"
 date:   2021-08-01 22:40:45 -0500
 categories: Java Web
+image: /assets/images/image1.png
 ---
 # What is Web Application?
 
@@ -24,7 +25,7 @@ It seems similar with web application, but web application focuses on services f
 
 # Accessing a Web Application
 
-![](/Users/xujingwen/Library/Application Support/typora-user-images/image-20210731014827644.png)
+![](/assets/images/image1.png)
 
 The figure above shows the process of accessing a web application:
 
