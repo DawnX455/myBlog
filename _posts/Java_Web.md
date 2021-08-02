@@ -66,7 +66,7 @@ The Apache Tomcat is an open source application server that executes Java Servle
 
    If we see the website as below, it means that the Apache Tomcat runs successfully.
 
-   !(assets/images/%image-20210731033515655.png%" alt="image-20210731033515655" style="zoom: 25%;")
+   <img src="assets/images/%image-20210731033515655.png" alt="image-20210731033515655" style="zoom: 25%;">
 
 5. Stop Tomcat
 
