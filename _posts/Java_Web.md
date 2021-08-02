@@ -49,7 +49,7 @@ The Apache Tomcat is an open source application server that executes Java Servle
 
 1. Download `zip` or `tar.gz` from Tomcat official website https://tomcat.apache.org/download-80.cgi
 
-<img src="/Users/xujingwen/Library/Application Support/typora-user-images/image-20210731032635896.png" alt="image-20210731032635896" style="zoom: 33%;" />
+![](/assets/images/image2.png)
 
 2. Unzip Tomcat and enter the `bin/` directory
 
@@ -67,8 +67,7 @@ The Apache Tomcat is an open source application server that executes Java Servle
 
    If we see the website as below, it means that the Apache Tomcat runs successfully.
 
-   <img src="assets/images/%image-20210731033515655.png" alt="image-20210731033515655" style="zoom: 25%;">
-
+![](/assets/images/image3.png)
 5. Stop Tomcat
 
    ``` shell
@@ -108,7 +107,7 @@ Tomcat configuration file `server.xml` is in `conf/` directory.
 
 This is the directory structure of Apache Tomcat example.
 
-<img src="/Users/xujingwen/Library/Application Support/typora-user-images/image-20210731040632198.png" alt="image-20210731040632198" style="zoom:50%;" />
+![](/assets/images/image4.png)
 
 Now, let's get some explaination.
 
@@ -139,7 +138,7 @@ HTTP (hypertext transport protocol) is an application-layer protocol for transmi
 
 #### Components in HTTP-based System
 
-#### 	<img src="/Users/xujingwen/Library/Application Support/typora-user-images/image-20210731054944546.png" alt="image-20210731054944546"  />
+![](/assets/images/image5.png)
 
 - Client: user-agent, is any tool that acts on the behalf of the user. This role is primarily performed by the Web browser. 
 - Web Server: deals with the HTTP request from the client, and sends HTTP response to client.
